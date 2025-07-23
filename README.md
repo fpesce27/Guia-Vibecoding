@@ -1,4 +1,4 @@
-# 🚀 Guía de Vibecoding: Programación Acelerada con IA
+# 🚀 GuIA de Vibecoding: Programación Acelerada con IA
 
 **Última actualización: Julio 2025**
 
